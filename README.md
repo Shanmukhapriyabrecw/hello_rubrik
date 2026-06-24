@@ -3,7 +3,7 @@
 **BRECW CSM 2026-2030 | Mission: Rubrik SDE 2CR Package **
 
 ###🎯 My Goal
-Crack **Rubrik spftware Engineer** role by **July 2030** with expertise in **Go, Distributed Systems, and Cloud**.
+Crack **Rubrik software Engineer** role by **July 2030** with expertise in **Go, Distributed Systems, and Cloud**.
 
 ###📚4-years Roadmap
 | year | Focus | Target |
